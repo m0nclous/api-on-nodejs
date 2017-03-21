@@ -37,7 +37,7 @@ app.get('/artists/:id', function(req, res) {
 	res.send(artist);
 });
 
-app.post('/artist', function(req, res) {
+app.post('/artists', function(req, res) {
 	var artist = {
 		id: Date.now(),
 		name: req.body.name
