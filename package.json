@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/m0nclous/api-on-nodejs#readme",
   "dependencies": {
+    "body-parser": "^1.17.1",
     "express": "^4.15.2"
   }
 }
