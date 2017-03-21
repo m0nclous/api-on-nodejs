@@ -1,0 +1,26 @@
+{
+  "name": "building-api-with-node",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/playlist?list=PLY4rE9dstrJzrDaSPKOrhNgQ19GhVl19u",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m0nclous/api-on-nodejs.git"
+  },
+  "keywords": [
+    "api",
+    "nodejs"
+  ],
+  "author": "loftblog, m0nclous <m0nclous.official@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m0nclous/api-on-nodejs/issues"
+  },
+  "homepage": "https://github.com/m0nclous/api-on-nodejs#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
